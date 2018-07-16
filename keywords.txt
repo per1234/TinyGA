@@ -1,15 +1,15 @@
 ## TinyGA - keywords.txt
 
 # Classes (KEYWORD1):
-TinyGA	  KEYWORKD1
+TinyGA	KEYWORKD1
 
 # Methods and Functions (KEYWORD2):
-init	  KEYWORD2
-load	  KEYWORD2
-save	  KEYWORD2
-print	  KEYWORD2
-reset	  KEYWORD2
-run	  KEYWORD2
+init	KEYWORD2
+load	KEYWORD2
+save	KEYWORD2
+print	KEYWORD2
+reset	KEYWORD2
+run	KEYWORD2
 
 # Constants (LITERAL1):
 MAX_POPULATION	LITERAL1
